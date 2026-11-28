@@ -6,4 +6,4 @@ Document configuration options
 
 ## Updated
 
-2026-11-27 14:30:01 UTC
+2026-11-28 13:45:39 UTC
